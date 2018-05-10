@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityDemo</string>
+    <string name="title_activity_secret">Secret</string>
+</resources>
