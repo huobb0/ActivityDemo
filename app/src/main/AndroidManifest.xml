@@ -19,7 +19,9 @@
         <activity
             android:name=".Secret"
             android:label="@string/title_activity_secret"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar"
+            android:exported="true">
+        </activity>
     </application>
 
 </manifest>
